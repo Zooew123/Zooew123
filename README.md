@@ -53,7 +53,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/Zooew123/Zooew123/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/Zooew123/Zooew123/blob/main/img/dev2.gif?raw=true" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/Zooew123/Zooew123/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
